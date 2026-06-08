@@ -118,7 +118,7 @@ st.set_page_config(page_title="めざせ！統計マスター 完全版", page_i
 st.markdown("""
     <style>
     .big-font { font-size:20px !important; line-height: 1.6; }
-    .highlight { background-color: #ffffcc; padding: 15px; border-radius: 10px; border-left: 5px solid #ffcc00; }
+    .highlight { background-color: #ffffcc; color: #333333; padding: 15px; border-radius: 10px; border-left: 5px solid #ffcc00; }
     .goukaku { color: #ff0000; font-size: 30px; font-weight: bold; text-align: center; }
     </style>
 """, unsafe_allow_html=True)
